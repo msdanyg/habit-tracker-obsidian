@@ -3,7 +3,7 @@
   "name": "Habit Tracker Pro",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Build lasting habits with streaks, badges, calendar heatmaps, and analytics inside Obsidian.",
+  "description": "Build lasting habits with streaks, badges, calendar heatmaps, and analytics.",
   "author": "msdanyg",
   "authorUrl": "https://github.com/msdanyg",
   "isDesktopOnly": false
