@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build artifacts (keep main.js for releases)
+*.js.map
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribution folder (built separately for Gumroad)
+dist/
+
+# Environment
+.env
+.env.local
+
+# npm
+npm-debug.log*
