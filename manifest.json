@@ -1,10 +1,10 @@
 {
-  "id": "habit-tracker",
-  "name": "Habit Tracker",
+  "id": "habit-tracker-pro",
+  "name": "Habit Tracker Pro",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Track daily habits with streaks, calendar heatmaps, and analytics. Build better habits with visual progress tracking.",
-  "author": "Your Name",
-  "authorUrl": "https://github.com/yourusername",
+  "description": "Build lasting habits with streaks, badges, calendar heatmaps, and analytics inside Obsidian.",
+  "author": "msdanyg",
+  "authorUrl": "https://github.com/msdanyg",
   "isDesktopOnly": false
 }
